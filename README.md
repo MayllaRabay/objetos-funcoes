@@ -1,4 +1,4 @@
 # Objetos e funções
 
-07. Sistema de correção de provas
-08. Ligar, desligar, acelerar e freiar um Carro
+1. Sistema de correção de provas
+2. Ligar, desligar, acelerar e freiar um Carro
